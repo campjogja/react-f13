@@ -1,0 +1,11 @@
+.Hello {
+  background-color: goldenrod;
+  display: flex;
+  justify-content: center;
+}
+
+.Date {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}
