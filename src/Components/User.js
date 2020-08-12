@@ -5,6 +5,8 @@ import "../Styles/User.css";
 
 import { getAllUser } from "../Redux/Actions/user";
 
+// const UPDATE = "This is NEW COMMIT in MASTER"
+
 // const URL_STRING = 'http://localhost:8000/user';
 
 class User extends Component {
